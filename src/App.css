@@ -1,0 +1,22 @@
+.movie-card {
+  width: 18rem;
+  margin: 20px;
+  display: inline-block;
+ 
+}
+
+.movie-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 20px;
+}
+.pm{
+  display: flex;
+  justify-content: center;
+}
+.az{
+  display: flex;
+  justify-content: center;
+  background-color: rgb(70, 44, 242);
+}
